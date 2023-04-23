@@ -30,4 +30,13 @@ _ total calls by agents
 
 _ calls by weekday
 
-_ Agent’s performance  
+_ Agent’s performance 
+
+
+Skills
+
+Dax
+
+tooltips
+
+butons
