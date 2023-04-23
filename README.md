@@ -33,10 +33,20 @@ _ calls by weekday
 _ Agent’s performance 
 
 
-Skills
+## SKILLS/CONCEPTS DEMONSTRATED
+
+Power Query
 
 Dax
 
+visulization
+
+slicer
+
+calculated colums
+
+calculated measures
+
 tooltips
 
-butons
+buttons
