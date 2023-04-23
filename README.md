@@ -14,27 +14,27 @@ It’s omnipresent: telecom marketing. Better price here. Better service there. 
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset :
 
-_ Overall customer satisfaction
+_  Overall customer satisfaction
 
-_ Overall calls answered/abandoned
+_  Overall calls answered/abandoned
 
-_ Average satisfactory rating
+_  Average satisfactory rating
 
-_ Average speed of answer
+_  Average speed of answer
 
-_ length of call
+_  length of call
 
-_ Calls by time
+_  Calls by time
 
-_ calls by month
+_  Calls by month
 
-_ number of calls resolved and unresolved by month
+_  Number of calls resolved and unresolved by month
 
-_ total calls by agents
+_  Total calls by agents
 
-_ calls by weekday
+_  Calls by weekday
 
-_ Agent’s performance 
+_  Agent’s performance 
 
 
 ## SKILLS/CONCEPTS DEMONSTRATED
