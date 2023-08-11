@@ -3,7 +3,7 @@
  PWC virtual Internship .Task 2 Call Centre Trends, Visualizing customer and agent behavior
  ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20icon.png)
  
- I participated in a self-paced virtual experience program organized by pWc in partnership with forage, where I used Power BI to analyze data and create dashboards and reports.
+ I participated in a self-paced virtual experience program organized by PWC in partnership with Forage, where I used Power BI to analyze data and create dashboards and reports.
  
 
 ## Here is the  task
@@ -38,10 +38,6 @@ Dax
 
 visulization
 
-slicer
-
-calculated colums
-
 calculated measures
 
 tooltips
@@ -51,6 +47,7 @@ buttons
 
 # ANALYSIS 
 
+[](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20dashboard%20task%202.jpg)
  
 
 ![]( )
