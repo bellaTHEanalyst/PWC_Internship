@@ -22,19 +22,12 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
  Average speed of answer
 
- length of call
-
- Calls by time
-
  Calls by month
 
  Number of calls resolved and unresolved by month
 
- Total calls by agents
 
- Calls by weekday
-
- Agent’s performance 
+ Agent’s performance Quadrant
 
 
 ## SKILLS/CONCEPTS DEMONSTRATED
@@ -58,15 +51,9 @@ buttons
 
 # ANALYSIS 
 
-## Analysis 1
+ 
 
-KPI's
-
-![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/call%20centre%20analysis.jpg)
-
-## Analysis 2
-
-![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20Agents%20performance%20analysis.jpg)
+![]( )
 
 
-[live report here](https://app.powerbi.com/view?r=eyJrIjoiOGM5MGNmMDMtOTEzMS00MGFmLWEyYzMtMmIxOTIwNTFjZTdiIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true&pageName=ReportSection)
+[live report here]( <iframe title="pwc task forage" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGM5MGNmMDMtOTEzMS00MGFmLWEyYzMtMmIxOTIwNTFjZTdiIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>)
