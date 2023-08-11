@@ -47,10 +47,10 @@ buttons
 
 # ANALYSIS 
 
-[](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20dashboard%20task%202.jpg)
+![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20dashboard%20task%202.jpg)
  
 
-![]( )
+
 
 
 [live report here](https://app.powerbi.com/view?r=eyJrIjoiOGM5MGNmMDMtOTEzMS00MGFmLWEyYzMtMmIxOTIwNTFjZTdiIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
