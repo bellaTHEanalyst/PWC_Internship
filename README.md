@@ -1,6 +1,6 @@
 # CALL-CENTRE-ANALYSIS.-
 
- PWC virtual Internship .Task 2 Call Centre Trends, Visualizing customer and agent behavior
+ PWC  Internship . Call Centre Trends, Visualizing customer and agent behavior
  ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20icon.png)
   Internship experience program organized by PWC in partnership with Forage, where I used Power BI to analyze data and create dashboards and reports.
  
