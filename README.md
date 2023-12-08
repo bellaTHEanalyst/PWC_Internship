@@ -14,7 +14,7 @@ A telecom marketing. Better price here. Better service there. Best for small bus
 ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20task%202%20mail.jpg)
 
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset :
+ I Created a dashboard using Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset :
 
  Overall customer satisfaction
 
@@ -42,12 +42,7 @@ visulization
 
 calculated measures
 
-tooltips
-
-buttons
-
-
-### ANALYSIS 
+# dashboard
 
 ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20dashboard%20task%202.jpg)
  
@@ -57,3 +52,20 @@ buttons
 # TASK 2
 
 ## Customer retention
+
+I defined key performance indicators related to customer retention
+
+I created a dashboard using the defined KPI's to reflect customer deomgraphics and insights.
+
+
+
+
+# TASK 
+
+## DIVERSITY AND INCLUSION
+
+I created visualization to present HR data, particularly focusing on gender related KPI's .
+
+I identified and discussed potential root causes for the slow progress in achieving gender balance at the executive level.
+
+
