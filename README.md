@@ -57,6 +57,8 @@ I defined key performance indicators related to customer retention
 
 I created a dashboard using the defined KPI's to reflect customer deomgraphics and insights.
 
+[Customer churn dashboard](https://github.com/bellaTHEanalyst/PWC_Internship/blob/main/Customer%20Church%20Dashboard.jpg)
+
 
 
 
