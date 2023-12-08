@@ -1,6 +1,7 @@
 # PWC INTERNSHIP
 
-## CALL-CENTRE-ANALYSIS.-
+## TASK 1
+### Call centre Analysis
 
  PWC  Internship . Call Centre Trends, Visualizing customer and agent behavior
  ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20icon.png)
@@ -51,7 +52,6 @@ buttons
 ![](https://github.com/bellaTHEanalyst/call-centre-Analysis.-/blob/main/pwc%20dashboard%20task%202.jpg)
  
 
-
-
-
 [live report here](https://app.powerbi.com/view?r=eyJrIjoiOGM5MGNmMDMtOTEzMS00MGFmLWEyYzMtMmIxOTIwNTFjZTdiIiwidCI6ImI5NGE1YmE0LTUwZTQtNGQ5YS04OWU1LTRlMDAzMzY2MDUwZiIsImMiOjF9&embedImagePlaceholder=true)
+
+## TASK 2
