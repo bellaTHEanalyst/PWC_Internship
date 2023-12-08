@@ -57,7 +57,7 @@ I defined key performance indicators related to customer retention
 
 I created a dashboard using the defined KPI's to reflect customer deomgraphics and insights.
 
-[Customer churn dashboard](https://github.com/bellaTHEanalyst/PWC_Internship/blob/main/Customer%20Church%20Dashboard.jpg)
+[Customer churn](https://github.com/bellaTHEanalyst/PWC_Internship/blob/main/Customer%20Church%20Dashboard.jpg)
 
 
 
@@ -69,5 +69,7 @@ I created a dashboard using the defined KPI's to reflect customer deomgraphics a
 I created visualization to present HR data, particularly focusing on gender related KPI's .
 
 I identified and discussed potential root causes for the slow progress in achieving gender balance at the executive level.
+
+[Diversity and Inclusion](https://github.com/bellaTHEanalyst/PWC_Internship/blob/main/PWC%20Diversity%20and%20Inclusion%20dashboard.jpg)
 
 
